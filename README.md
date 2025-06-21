@@ -77,9 +77,7 @@ Todos os testes devem passar (OK).
 
 Se você deseja contribuir com este projeto, sinta-se à vontade para abrir issues ou pull requests.
 
-## Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 
 
